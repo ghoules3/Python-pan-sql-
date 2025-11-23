@@ -3,6 +3,5 @@
 Сделано было в Google Colab 
   
 Открыть в Jupyter или Colab .ipynb  
-Проверить есть ли chinook.db в той же папке в Jupyter, а в Colab загрузить в Files chinook.db  
+Проверить есть ли cardio_train.csv в той же папке в Jupyter, а в Colab загрузить в Files cardio_train.csv  
 Выполнить Restart & Run All
-
